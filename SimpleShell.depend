@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605721681 source:/home/makrm/Desktop/SimpleShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<signal.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+
